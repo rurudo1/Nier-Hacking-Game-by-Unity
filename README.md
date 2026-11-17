@@ -41,6 +41,12 @@
 
 ---
 
+### 演示 / 시연 영상
+https://github.com/user-attachments/assets/f57e6ee7-6f46-480c-a789-7524ffdc06bc
+https://github.com/user-attachments/assets/15a3f9d3-0000-45dc-9592-3d197681ffad
+
+---
+
 ### Disclaimer & Assets
 - **声明**：本项目为非商业性学习研究项目（Fan-made / For educational purposes only）。
 - **美术与音频**：部分资产提取/参考自原作《NieR:Automata》，所有原始知识产权均归属于 SQUARE ENIX 及开发团队。若有任何侵权顾虑，请联系作者下架处理。
